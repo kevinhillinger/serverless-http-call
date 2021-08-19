@@ -1,4 +1,4 @@
-# Serverless HTTP Call
+# Serverless HTTP Call (outbound)
 
 Show an http call to a flask app from a serverless function in Azure Functions using Python.
 
